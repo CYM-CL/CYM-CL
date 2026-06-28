@@ -31,18 +31,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CYM-CL&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYM-CL&layout=compact&theme=dark&hide_border=true" />
-</div>
-
----
-
-### 🎯 Current Focus
-
-> Building AI-native development workflows with open-source models.
-> Exploring the boundaries of what AI coding agents can do.
-
----
