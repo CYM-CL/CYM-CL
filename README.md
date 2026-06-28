@@ -37,7 +37,7 @@
 |---|--------|--------|
 | **Vol.1** | Gradient Cosmos Ontology | [10.5281/zenodo.20834797](https://zenodo.org/records/20834797) |
 | **Vol.2** | Endogenous Evolutionary Theory | [10.5281/zenodo.20835266](https://zenodo.org/records/20835266) |
-| **Vol.3** | Endogenous Construction of Causality | [10.5281/zenodo.20835529](https://zenodo.org/records/20835529) |
+| **Vol.3** | Endogenous  of Causality | [10.5281/zenodo.20835529](https://zenodo.org/records/20835529) |
 | **Vol.4** | Self-Bootstrapping AGI Engine | [10.5281/zenodo.20963876](https://zenodo.org/records/20963876) |
 | **Vol.5** | Autogenous Agent | [10.5281/zenodo.20964365](https://zenodo.org/records/20964365) |
 | **Vol.6** | Non-von Neumann Computing | [10.5281/zenodo.20964527](https://zenodo.org/records/20964527) |
