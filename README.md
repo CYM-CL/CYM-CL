@@ -27,7 +27,7 @@
 
 **DevOps & Tools**
 
-`Git` `Docker` `Linux` `VS Code` `Neovim` `Hugo`
+`Git` `Docker` `Linux` `VS Code` `Neovim` 
 
 ---
 
@@ -46,5 +46,3 @@
 > Exploring the boundaries of what AI coding agents can do.
 
 ---
-
-*✨ This profile is maintained with Codex.*
