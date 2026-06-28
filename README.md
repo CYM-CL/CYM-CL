@@ -11,7 +11,7 @@
 - 🌱 Exploring **LLM agents, open-source models, and automated workflows**
 - 💬 Ask me about **AI-assisted development, prompt engineering, coding tools**
 - 📫 Reach me: [GitHub](https://github.com/CYM-CL)
-- 🌐 Blog: [zenodo.org/records/20965368](https://zenodo.org/records/20965368)
+- 🌐 Paper: [zenodo.org/records/20965368](https://zenodo.org/records/20965368)
 
 ---
 
