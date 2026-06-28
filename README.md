@@ -1,50 +1,87 @@
 <div align="center">
-  <h1>👋 Hi, I'm Cao Yanming</h1>
-  <p><b>CYM-CL</b></p>
+
+# 👋 Hi, I'm Cao Yanming  
+### CYM-CL · Independent AI Systems Researcher  
+
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🔭 Currently working on **AI coding tools & automation**
-- 🌱 Exploring **LLM agents, open-source models, and automated workflows**
-- 💬 Ask me about **AI-assisted development, prompt engineering, coding tools**
-- 📫 Reach me: [GitHub](https://github.com/CYM-CL)
-- 🌐 Paper: [zenodo.org/records/20965368](https://zenodo.org/records/20965368)
-
----
-
-### Dust Theory — Gradient Cosmos Research Series
-
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-**A unified framework from the origin of spacetime to self-generating intelligence, built on a single primitive: \(\Delta(x,y) = \max(0, f(x)-g(y))\).**
+- 🔭 Researching **AI systems, autonomous agents, and computational frameworks**
+- 🌱 Exploring **LLM agents, self-evolving architectures, and non-standard AI paradigms**
+- 🧠 Focus: **formal systems, generative computation, and AI infrastructure design**
+- 💬 Interests: AI engineering · agent systems · programming languages · prompt architectures
+- 📫 Contact: https://github.com/CYM-CL  
+- 📄 Publications: https://zenodo.org/records/20965368  
 
 ---
 
-### The Series
+## 🌌 Dust Theory — Gradient Cosmos Research Series
 
-| # | Volume | Zenodo |
-|---|--------|--------|
-| **Vol.1** | Gradient Cosmos Ontology | [10.5281/zenodo.20834797](https://zenodo.org/records/20834797) |
-| **Vol.2** | Endogenous Evolutionary Theory | [10.5281/zenodo.20835266](https://zenodo.org/records/20835266) |
-| **Vol.3** | Endogenous Construction of Causality | [10.5281/zenodo.20835529](https://zenodo.org/records/20835529) |
-| **Vol.4** | Self-Bootstrapping AGI Engine | [10.5281/zenodo.20963876](https://zenodo.org/records/20963876) |
-| **Vol.5** | Autogenous Agent | [10.5281/zenodo.20964365](https://zenodo.org/records/20964365) |
-| **Vol.6** | Non-von Neumann Computing | [10.5281/zenodo.20964527](https://zenodo.org/records/20964527) |
-| **Vol.7** | Gradient Space-Time | [10.5281/zenodo.20964863](https://zenodo.org/records/20964863) |
-| **Vol.8** | Gradient Quantum Computing | [10.5281/zenodo.20965012](https://zenodo.org/records/20965012) |
-| **Vol.9** | Gradient-Constrained Fusion | [10.5281/zenodo.20965115](https://zenodo.org/records/20965115) |
-| **Book** | The Gradient Cosmos | [10.5281/zenodo.20965368](https://zenodo.org/records/20965368) |
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![Research](https://img.shields.io/badge/Status-Active%20Research-blue)]()
+[![Paradigm](https://img.shields.io/badge/Model-Δ--Primitive%20System-purple)]()
 
 ---
 
-### About
+### 🧩 Core Thesis
 
-Dust Theory presents a paradigm shift: replace substance ontology with **relational monism** built on a single \(\Delta\) primitive. All 10 volumes have been systematically verified against the corresponding code implementation.
+A unified computational ontology built upon a single relational primitive:
 
-Published on Zenodo under **CC BY-NC-ND 4.0**.
+\[
+\Delta(x,y) = \max(0, f(x) - g(y))
+\]
 
+This framework reconstructs:
 
+- spacetime emergence  
+- causal structure  
+- computation dynamics  
+- intelligence formation  
+- self-organizing systems  
 
+---
+
+## 📚 Gradient Cosmos Series
+
+| Volume | Title | Zenodo |
+|--------|------|--------|
+| Vol.1 | Gradient Cosmos Ontology | https://zenodo.org/records/20834797 |
+| Vol.2 | Endogenous Evolutionary Theory | https://zenodo.org/records/20835266 |
+| Vol.3 | Construction of Causality | https://zenodo.org/records/20835529 |
+| Vol.4 | Self-Bootstrapping AGI Engine | https://zenodo.org/records/20963876 |
+| Vol.5 | Autogenous Agent | https://zenodo.org/records/20964365 |
+| Vol.6 | Non-von Neumann Computing | https://zenodo.org/records/20964527 |
+| Vol.7 | Gradient Space-Time | https://zenodo.org/records/20964863 |
+| Vol.8 | Gradient Quantum Computing | https://zenodo.org/records/20965012 |
+| Vol.9 | Gradient-Constrained Fusion | https://zenodo.org/records/20965115 |
+| Book | The Gradient Cosmos | https://zenodo.org/records/20965368 |
+
+---
+
+## 🧠 Research Position
+
+Dust Theory proposes a shift from classical substance-based models toward a **relational generative computational framework**.
+
+The system is constructed from a single primitive operator and is consistently mapped to executable computational implementations.
+
+---
+
+## ⚙️ Status
+
+- Conceptual framework: ✅
+- Publications: ✅
+- Computational mapping: ⚙️ ongoing
+- Large-scale validation: ❓
+- Funding: limited / independent research
+
+---
+
+<div align="center">
+
+🚀 *Exploring computation beyond neural paradigms*  
+⚙️ *Building self-generating systems from first principles*
+
+</div>
